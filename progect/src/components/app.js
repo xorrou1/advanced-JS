@@ -14,7 +14,7 @@ shopCardButton1.addEventListener("click", function (event){
 
 
 /**
- * Функция корзины
+ * Функция создает  корзину.
  */
 function app(){
 
